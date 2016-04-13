@@ -1,1 +1,3 @@
-//Test
+class Main{
+
+}
